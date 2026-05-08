@@ -802,7 +802,7 @@ export default function App() {
       </section>
 
       {/* GALLERY */}
-      <section id="gallery" className="max-w-6xl mx-auto px-6 py-20">
+      {/* <section id="gallery" className="max-w-6xl mx-auto px-6 py-20">
         <p className="text-xs font-mono tracking-widest mb-2" style={{ color:"#22d3ee" }}>// 06. gallery</p>
         <h2 className="text-4xl font-extrabold text-white mb-2">Gallery</h2>
         <p className="text-sm mb-10" style={{ color:"#778899" }}>Snapshots from my journey.</p>
@@ -827,7 +827,7 @@ export default function App() {
             </figure>
           ))}
         </div>
-      </section>
+      </section> */}
 
       {/* FOOTER */}
       <footer className="border-t py-10 px-6 flex flex-col items-center gap-4" style={{ borderColor:"rgba(0,245,196,0.07)" }}>
